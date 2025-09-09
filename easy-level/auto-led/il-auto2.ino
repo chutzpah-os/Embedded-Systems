@@ -1,5 +1,5 @@
 /*******************************************************************************
-* RoboCore Arduino Pocket Kit - Projeto Iluminação Automatizada
+*  Projeto Iluminação Automatizada
 * Acender o LED gradativamente quando a luminosidade do ambiente estiver abaixo
 * de um limite.
 *******************************************************************************/

@@ -1,5 +1,5 @@
 /*******************************************************************************
-* RoboCore Arduino Pocket Kit - Projeto Iluminação Automatizada
+*Projeto Iluminação Automatizada
 * Imprimir na Serial os valores lidos através do LDR.
 *******************************************************************************/
 

@@ -1,5 +1,5 @@
 /*******************************************************************************
-* RoboCore Arduino Pocket Kit - Lendo um Potenciômetro
+* Lendo um Potenciômetro
 * Imprime na Serial o valor de tensão na saída do potenciômetro.
 *******************************************************************************/
 
